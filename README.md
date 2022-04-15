@@ -49,6 +49,6 @@
 </div>
   
  
-  ![Snake animation](https://github.com/ruanvsrateira)
+  ![Snake animation](.github/github-user-contribution.svg)
  
 </div>
