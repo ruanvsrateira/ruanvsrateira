@@ -47,13 +47,16 @@
 
 <br /><br/>
     
-<div style="margin: auto">
+<div align="center">
   <a href="https://github.com/ruanvsrateira">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ruanvsrateira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvsrateira&layout=compact&langs_count=7&theme=react" />
       </div>
 </div>
 
+<div align="center">
+    
+![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)    
 
-![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)
+</div>
 
