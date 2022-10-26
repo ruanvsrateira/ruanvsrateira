@@ -13,6 +13,8 @@
 
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<br />
+
 **Sobre mim!**
 
 - 👨🏽‍💻 Atualmente trabalho em uma empresa da minha cidade chamada Teletric.
@@ -22,17 +24,15 @@
 - 💬 Meu hobby estudar! adora estudar aqui que gosto e tenho paixão.
 - 📫 Meu e-mail [vruan85@gmail.com](mailto:vruan85@gmail.com).
 
-  <br /><br />
-<div align="center">
-  <a href="https://github.com/ruanvsrateira">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ruanvsrateira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <br />
   
-  <br /> <br />
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvsrateira&layout=compact&langs_count=7&theme=react" />
-      </div>
-</div>
+<div style="display: flex; align-items: center; flex-direction: row; justify-content: center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanvsrateira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvsrateira&layout=compact&langs_count=7&theme=react" />
+  </div>
 
-<div align="center">
+<div>
     
 ![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)    
 
