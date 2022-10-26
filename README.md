@@ -25,9 +25,17 @@
 - 📫 Meu e-mail [vruan85@gmail.com](mailto:vruan85@gmail.com).
 
  <br />
-  
+ 
+ **Tecnologias favoritas**
+ 
+ - <strong>Backend: </strong> NodeJS, NestJS, Class-validator, Swagger(Documentação), Express, Prisma, Docker.
+ - <strong>Frontend: </strong> ReactJS, NextJS, Styled-components, Formik, Yup, ChakraUI, MaterialUI.
+
+<br />
+
 <div style="display: flex; align-items: center; flex-direction: row; justify-content: center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanvsrateira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvsrateira&layout=compact&langs_count=7&theme=react" />
   </div>
