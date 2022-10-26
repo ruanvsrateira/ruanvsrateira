@@ -1,52 +1,43 @@
-<p>
-    Hello, my name is Ruan, I am doing a Graduation in Systems Analysis and Development (Anhanguera Araraquara) and a Technical Course in Computer Science (Senac Araraquara)
-</p>
+<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+
+<!--
+**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h3 title="hehehe"> Olá 👋, meu nome é Ruan!</h3>
+
+<a href="https://www.linkedin.com/in/ruan-victor-rateira/">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
-
-<p>
-    <strong>
-        🦾 Ferramentas favoritas:   
-    </strong>
-</p>
-<div>
-    <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"/>
-    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-
 <br />
 
-<p>
-    <strong>
-        🧠 Aprendendo sobre: 
-    </strong>
-</p>
+**Estudante de Programação** 🚀 Moro atualmente em Gavião Peixoto, SP.
+ <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-<div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</div>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<br />
+**Sobre mim!**
 
-<p>
-    <strong>
-        Contato:
-    </strong>
-</p>
+- 👨🏽‍💻 Atualmente trabalho em uma empresa da minha cidade chamada Teletric.
+- 🌱 No Momento estou estudando sobre o NestJs e Jest.
+- 🤔 Me entereço pela área de desenvolvimento backend e engenharia de software.
+- 💼 Estou cursando a graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.
+- 💬 Meu hobby estudar! adora estudar aqui que gosto e tenho paixão.
+- 📫 Meu e-mail [vruan85@gmail.com](mailto:vruan85@gmail.com).
 
-<div>
-    <a href="https://www.linkedin.com/in/ruan-victor-rateira">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        <a href="mailto:vruan85@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-    </a>
-</div>
-
-<br /><br/>
-    
+  <br /><br />
 <div align="center">
   <a href="https://github.com/ruanvsrateira">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ruanvsrateira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -59,4 +50,3 @@
 ![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)    
 
 </div>
-
