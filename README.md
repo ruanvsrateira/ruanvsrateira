@@ -19,7 +19,7 @@
 
 - 👨🏽‍💻 Atualmente trabalho em uma empresa da minha cidade chamada Teletric.
 - 🌱 No Momento estou estudando sobre o NestJs e Jest.
-- 🤔 Me entereço pela área de desenvolvimento backend e engenharia de software.
+- 🤔 Me Interesso pela área de desenvolvimento backend e engenharia de software.
 - 💼 Estou cursando a graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.
 - 💬 Meu hobby estudar! adoro estudar programação que gosto tanto e tenho paixão.
 - 📫 Meu e-mail [vruan85@gmail.com](mailto:vruan85@gmail.com).
