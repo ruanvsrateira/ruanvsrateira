@@ -1,9 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ruan+Victor+Dos+Santos+Rateira;I'm+19+years+old;I'm+from+Brazil;I'm+a+Full-Stack+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ruan+Victor;I'm+19+years+old;I'm+from+Brazil;I'm+a+Full-Stack+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 <br />
 <br />
 
-<img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<div style="width: 100%; display: flex; align-items: center, justify-content: center">
+ <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+</div>
 
 <br />
 
