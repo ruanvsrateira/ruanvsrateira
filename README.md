@@ -3,13 +3,13 @@
 <br />
 <br />
 
-<div style="width: 100%; display: flex; align-items: center, justify-content: center">
+<div align="center">
  <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 </div>
 
 <br />
 
-# Sobre Mim
+# Sobre Mim 👤
 
 - 👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.
 - 🌱 No Momento estou estudando sobre NextJS.
@@ -20,14 +20,14 @@
  <br />
 
 # Tecnologias Favoritas 
-## Backend
+## Backend ⚙️
 <div style="display: flex; justify-content: center">
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,prisma,express,docker,aws,mongo,postgresql,mysql,typescript,js&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## Frontend
+## Frontend 🎨
 
 <div style="display: flex; justify-content: center">
 
@@ -37,7 +37,7 @@
 
 <br />
 
-# Informações para Contato
+# Informações para Contato 📬
 
 <a href="https://www.linkedin.com/in/ruan-victor-rateira">
   <img
