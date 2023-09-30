@@ -8,10 +8,12 @@
 <br />
 <br />
 
-**Estudante de Programação** 🚀 Moro atualmente em Gavião Peixoto, SP.
+**Desenvolvedor Full-Stack** 🚀 Moro atualmente em Gavião Peixoto, SP.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<div style="display: flex; align-items: center; justify-content: space-around">
+<img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+</div>
 
 <br />
 
