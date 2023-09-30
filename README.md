@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=845ef7&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ruan+Victor;I'm+19+years+old;I'm+from+Brazil;I'm+a+Full-Stack+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 <br />
@@ -14,9 +16,12 @@
 <p>🌱 No Momento estou estudando sobre NextJS.</p>
 <p>🤔 Me Interesso pela área de Engenharia de software.</p>
 <p>💼 Estou Finalizando minha graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</p>
-<p>💬 Meu hobby estudar! adoro estudar programação que gosto tanto e tenho paixão.</p>
+<p>💬 Meu hobby estudar! adoro estudar programação e também inglês que gosto tanto e tenho paixão.</p>
 
 <br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanvsrateira&bg_color=3b4252&color=b197fc&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # Tecnologias Favoritas 💜
 <h3>Backend ⚙️</h3>
@@ -64,3 +69,5 @@
 ![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=845ef7&height=120&section=footer"/>
