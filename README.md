@@ -10,24 +10,23 @@
 <br />
 
 # Sobre Mim 👤
+<p>👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.</p> 
+<p>🌱 No Momento estou estudando sobre NextJS.</p>
+<p>🤔 Me Interesso pela área de Engenharia de software.</p>
+<p>💼 Estou Finalizando minha graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</p>
+<p>💬 Meu hobby estudar! adoro estudar programação que gosto tanto e tenho paixão.</p>
 
-- 👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.
-- 🌱 No Momento estou estudando sobre NextJS.
-- 🤔 Me Interesso pela área de Engenharia de software.
-- 💼 Estou Finalizando minha graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.
-- 💬 Meu hobby estudar! adoro estudar programação que gosto tanto e tenho paixão.
+<br />
 
- <br />
-
-# Tecnologias Favoritas 
-## Backend ⚙️
+# Tecnologias Favoritas 💜
+<h3>Backend ⚙️</h3>
 <div style="display: flex; justify-content: center">
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,prisma,express,docker,aws,mongo,postgresql,mysql,typescript,js&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## Frontend 🎨
+<h3>Frontend 🎨</h3>
 
 <div style="display: flex; justify-content: center">
 
