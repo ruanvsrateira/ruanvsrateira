@@ -11,7 +11,13 @@
 
 <br />
 
-# Sobre Mim 👤
+<div align="center">
+  <a href="#SobreMim">Sobre mim</a> | <a href="#certificados">Certificados</a> | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
+</div>
+
+<br />
+
+<h1 id="SobreMim">Sobre mim 👤</h1>
 <p>👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.</p> 
 <p>🌱 No Momento estou estudando sobre NextJS.</p>
 <p>🤔 Me Interesso pela área de Engenharia de software.</p>
@@ -20,7 +26,8 @@
 
 <br />
 
-# Certificados 📚
+<h1 id="certificados">Certificados 📚</h1>
+
 [![Acesse meus certificados](https://img.shields.io/badge/AcesseMeusCertificados-GitHub-brightgreen)](https://github.com/ruanvsrateira/certificates)
 
 <br />
@@ -28,7 +35,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanvsrateira&bg_color=3b4252&color=b197fc&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-# Tecnologias Favoritas 💜
+<h1 id="tecnologias-favoritas">Tecnologias Favoritas 💜</h1>
+
 <h3>Backend ⚙️</h3>
 <div style="display: flex; justify-content: center">
 
@@ -46,7 +54,7 @@
 
 <br />
 
-# Informações para Contato 📬
+<h1 id="informacoes-para-contato">Informações para Contato 📬</h1>
 
 <a href="https://www.linkedin.com/in/ruan-victor-rateira">
   <img
