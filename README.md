@@ -11,14 +11,6 @@
 
 <br />
 
-<div align="center">
- 
-  [Sobre mim](#SobreMim) | [Certificados](#certificados) | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
-
-</div>
-
-<br />
-
 <h1 id="SobreMim">Sobre mim 👤</h1>
 <p>👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.</p> 
 <p>🌱 No Momento estou estudando sobre NextJS.</p>
@@ -28,7 +20,7 @@
 
 <br />
 
-## Certificados 
+# Certificados 
 
 [![Acesse meus certificados](https://img.shields.io/badge/AcesseMeusCertificados-GitHub-brightgreen)](https://github.com/ruanvsrateira/certificates)
 
