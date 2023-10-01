@@ -28,7 +28,7 @@
 
 <br />
 
-## Certificados {#certificados}
+## Certificados 
 
 [![Acesse meus certificados](https://img.shields.io/badge/AcesseMeusCertificados-GitHub-brightgreen)](https://github.com/ruanvsrateira/certificates)
 
