@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-  <a href="#SobreMim">Sobre mim</a> | <a href="#certificados">Certificados</a> | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
+  [Sobre mim](#SobreMim)| <a href="#certificados">Certificados</a> | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
 </div>
 
 <br />
