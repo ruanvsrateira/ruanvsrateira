@@ -13,7 +13,7 @@
 
 <div align="center">
  
-  [Sobre mim](#SobreMim)  <a href="#certificados">Certificados</a> | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
+  [Sobre mim](#SobreMim) | [Certificados](#certificados) | <a href="#tecnologias-favoritas"> Tecnologias Favoritas</a> | <a href="#informacoes-para-contato">Informações para contato</a>
 
 </div>
 
