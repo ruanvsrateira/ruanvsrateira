@@ -20,6 +20,11 @@
 
 <br />
 
+# Certificados 📚
+[![Acesse meus certificados](https://img.shields.io/badge/AcesseMeusCertificados-GitHub-brightgreen)](https://github.com/ruanvsrateira/certificates)
+
+<br />
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanvsrateira&bg_color=3b4252&color=b197fc&line=7d7d7d&point=2d2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -63,11 +68,5 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanvsrateira&layout=compact&langs_count=7&theme=react" />
   </div>
-
-<div>
-    
-![snake animation](https://github.com/ruanvsrateira/ruanvsrateira/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=845ef7&height=120&section=footer"/>
