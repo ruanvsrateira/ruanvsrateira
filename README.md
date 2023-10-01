@@ -28,7 +28,7 @@
 
 <br />
 
-<h1 id="certificados">Certificados 📚</h1>
+# Certificados 📚 {#certificados}
 
 [![Acesse meus certificados](https://img.shields.io/badge/AcesseMeusCertificados-GitHub-brightgreen)](https://github.com/ruanvsrateira/certificates)
 
