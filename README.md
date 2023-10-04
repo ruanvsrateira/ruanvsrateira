@@ -18,7 +18,7 @@
 <br />
 
 <h1 id="SobreMim">Sobre mim 👤</h1>
-<p>👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empres @box-solutions.</p> 
+<p>👨🏽‍💻 Atualmente trabalho como Desenvolvedor Full-Stack na empresa @box-solutions.</p> 
 <p>🌱 No Momento estou estudando sobre NextJS.</p>
 <p>🤔 Me Interesso pela área de Engenharia de software.</p>
 <p>💼 Estou Finalizando minha graduação em Ánalise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</p>
